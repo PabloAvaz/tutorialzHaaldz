@@ -1,0 +1,5 @@
+JDK
+https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+
+IDE Net Beans
+https://ftp.cixug.es/apache/netbeans/netbeans/12.4/Apache-NetBeans-12.4-bin-windows-x64.exe
